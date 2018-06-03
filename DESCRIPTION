@@ -1,10 +1,11 @@
 Package: dummyInput
-Title: What the Package Does (one line, title case)
-Version: 0.0.0.9000
-Authors@R: person("First", "Last", email = "first.last@example.com", role = c("aut", "cre"))
-Description: What the package does (one paragraph).
-Depends: R (>= 3.2.3)
-License: What license is it under?
+Title: build dummy matrix
+Version: 0.0.1
+Authors@R: person("Jorge", "Pérez", email = "josp.jorge@gmail.com", role = c("aut", "cre"))
+Description:
+An R package to create dummy matrix representation from a vector of values.
+Depends: R (>= 3.0.0)
+License: MIT
 Encoding: UTF-8
 LazyData: true
 RoxygenNote: 6.0.1.9000
