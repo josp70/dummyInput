@@ -2,8 +2,7 @@ Package: dummyInput
 Title: build dummy matrix
 Version: 0.0.1
 Authors@R: person("Jorge", "Pérez", email = "josp.jorge@gmail.com", role = c("aut", "cre"))
-Description:
-An R package to create dummy matrix representation from a vector of values.
+Description: An R package to create dummy matrix representation from a vector of values.
 Depends: R (>= 3.0.0)
 License: MIT
 Encoding: UTF-8
